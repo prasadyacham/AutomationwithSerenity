@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Account page test","Acc page logo test","SUCCESS","2021-06-11T22:48:50.0411687-07:00[America/Los_Angeles]","0.0","11.37"
+"Account page test","Search test","SUCCESS","2021-06-11T22:49:02.2171995-07:00[America/Los_Angeles]","0.0","14.89"
+"Login page test","App login test","SUCCESS","2021-06-11T22:49:18.8219436-07:00[America/Los_Angeles]","0.0","8.75"
